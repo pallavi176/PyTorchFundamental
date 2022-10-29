@@ -19,3 +19,7 @@ Compute Platform: CPU
 ```bash
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
 ```
+
+```bash
+pip install ipykernel
+```
