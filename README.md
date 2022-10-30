@@ -35,3 +35,12 @@ pip install -r requirements.txt
 ### Download hymenoptera data
 data_URL = "https://download.pytorch.org/tutorial/hymenoptera_data.zip"
 
+## Run tensorboard
+
+```bash
+tensorboard --logdir=runs
+```
+
+### Go to link
+http://localhost:6006/
+
