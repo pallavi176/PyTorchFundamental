@@ -32,3 +32,6 @@ pip install ipykernel
 pip install -r requirements.txt
 ```
 
+### Download hymenoptera data
+data_URL = "https://download.pytorch.org/tutorial/hymenoptera_data.zip"
+
