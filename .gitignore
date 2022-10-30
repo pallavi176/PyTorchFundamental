@@ -131,3 +131,5 @@ dmypy.json
 env/
 
 notebook/data/
+
+notebook/cnn.pth
