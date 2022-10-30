@@ -131,9 +131,10 @@ dmypy.json
 env/
 
 notebook/data/
-
 notebook/cnn.pth
 
 data/hymenoptera_data/
 
 notebook/runs/
+notebook/model.pth
+notebook/checkpoint.pth
