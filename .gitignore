@@ -133,3 +133,5 @@ env/
 notebook/data/
 
 notebook/cnn.pth
+
+data/hymenoptera_data/
