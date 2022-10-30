@@ -38,6 +38,7 @@ data_URL = "https://download.pytorch.org/tutorial/hymenoptera_data.zip"
 ## Run tensorboard
 
 ```bash
+cd notebook
 tensorboard --logdir=runs
 ```
 
