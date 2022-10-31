@@ -143,3 +143,5 @@ src/pytorch-lightning/data/
 src/pytorch-lightning/lightning_logs/
 
 src/chatbot/data.pth
+
+src/NLP_Explored/dataset/
