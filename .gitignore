@@ -138,3 +138,6 @@ data/hymenoptera_data/
 notebook/runs/
 notebook/model.pth
 notebook/checkpoint.pth
+
+src/RNNNameClassifier/data/
+

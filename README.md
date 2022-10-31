@@ -45,3 +45,15 @@ tensorboard --logdir=runs
 ### Go to link
 http://localhost:6006/
 
+## RNN Data:
+Download the data: https://download.pytorch.org/tutorial/data.zip
+
+### Further Readings:
+
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#architecture
+https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+
+
+
+
