@@ -142,3 +142,4 @@ src/rnn_lstm_gru/data/
 src/pytorch-lightning/data/
 src/pytorch-lightning/lightning_logs/
 
+src/chatbot/data.pth
