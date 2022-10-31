@@ -83,3 +83,7 @@ tensorboard --logdir=lightning_logs
 #### To view tensorboard:
 http://localhost:6006/
 
+
+## PyTorch LR Scheduler 
+https://pytorch.org/docs/stable/optim.html
+
