@@ -6,3 +6,4 @@ torchaudio
 tensorboard
 pytorch-lightning
 Flask
+nltk
