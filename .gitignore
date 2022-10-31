@@ -140,4 +140,4 @@ notebook/model.pth
 notebook/checkpoint.pth
 
 src/RNNNameClassifier/data/
-
+src/rnn_lstm_gru/data/

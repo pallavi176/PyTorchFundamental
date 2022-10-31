@@ -54,6 +54,12 @@ https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#architecture
 https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 
+## RNN:
+https://pytorch.org/docs/stable/generated/torch.nn.RNN.html
 
+## LSTM:
+https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
 
+## GRU:
+https://pytorch.org/docs/stable/generated/torch.nn.GRU.html
 
