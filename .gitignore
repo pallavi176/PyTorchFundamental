@@ -132,12 +132,13 @@ env/
 
 notebook/data/
 notebook/cnn.pth
-
 data/hymenoptera_data/
-
 notebook/runs/
 notebook/model.pth
 notebook/checkpoint.pth
 
 src/RNNNameClassifier/data/
 src/rnn_lstm_gru/data/
+src/pytorch-lightning/data/
+src/pytorch-lightning/lightning_logs/
+

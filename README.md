@@ -54,12 +54,32 @@ https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#architecture
 https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 
-## RNN:
+### RNN:
 https://pytorch.org/docs/stable/generated/torch.nn.RNN.html
 
-## LSTM:
+### LSTM:
 https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
 
-## GRU:
+### GRU:
 https://pytorch.org/docs/stable/generated/torch.nn.GRU.html
+
+
+## Lightning Repo
+https://github.com/PyTorchLightning/pytorch-lightning
+
+### Installation
+```bash
+conda install pytorch-lightning -c conda-forge
+or
+pip install pytorch-lightning
+```
+
+### Run script
+```bash
+cd src/pytorch-lightning/
+python lightning.py
+tensorboard --logdir=lightning_logs
+```
+#### To view tensorboard:
+http://localhost:6006/
 
