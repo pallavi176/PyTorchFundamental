@@ -7,3 +7,5 @@ tensorboard
 pytorch-lightning
 Flask
 nltk
+pandas
+spacy

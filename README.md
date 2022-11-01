@@ -153,3 +153,14 @@ Have a look at [intents.json](intents.json). You can customize it according to y
   ]
 }
 ```
+
+## Custom Dataset
+
+### SpaCy Installation
+``` bash
+python -m spacy download en_core_web_sm
+```
+
+### Flickr8k Dataset
+https://www.kaggle.com/datasets/e1cd22253a9b23b073794872bf565648ddbe4f17e7fa9e74766ad3707141adeb
+

@@ -145,3 +145,5 @@ src/pytorch-lightning/lightning_logs/
 src/chatbot/data.pth
 
 src/NLP_Explored/dataset/
+src/NLP_Explored/flickr8k/
+
