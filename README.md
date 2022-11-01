@@ -164,3 +164,19 @@ python -m spacy download en_core_web_sm
 ### Flickr8k Dataset
 https://www.kaggle.com/datasets/e1cd22253a9b23b073794872bf565648ddbe4f17e7fa9e74766ad3707141adeb
 
+
+## Image Captioning
+
+Download the dataset used: https://www.kaggle.com/dataset/e1cd22253a9b23b073794872bf565648ddbe4f17e7fa9e74766ad3707141adeb
+Then set images folder, captions.txt inside a folder Flickr8k.
+
+train.py: For training the network
+
+model.py: creating the encoderCNN, decoderRNN and hooking them togethor
+
+get_loader.py: Loading the data, creating vocabulary
+
+utils.py: Load model, save model, printing few test cases downloaded online
+
+utils.py => get_loader.py => model.py => train.py
+
