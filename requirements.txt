@@ -9,3 +9,4 @@ Flask
 nltk
 pandas
 spacy
+unidecode
